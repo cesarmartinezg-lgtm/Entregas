@@ -12,4 +12,7 @@ Este documento lista los integrantes del equipo, junto con su número de cédula
 
 📘 **Universidad de Antioquia**  
 Proyecto académico - Competencia *Pruebas Saber Pro Colombia*  
-2025-2
+2025-2  
+
+🎥 **Video explicativo de la Entrega 2:**  
+[Ver en YouTube](https://youtu.be/LColqp7_zEE)
